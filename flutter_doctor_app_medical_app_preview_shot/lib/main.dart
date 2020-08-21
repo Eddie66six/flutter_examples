@@ -6,7 +6,6 @@ void main() {
   runApp(MyApp());
 }
 
-//https://dribbble.com/shots/14053057-Doctor-App-Medical-App-Preview-Shot
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
